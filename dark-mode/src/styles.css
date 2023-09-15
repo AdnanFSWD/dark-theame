@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.App-header {
+  /* width: 100vw; */
+  height: 10vh;
+  background-color: whitesmoke;
+  color: black;
+  display: flex;
+  padding: 10px;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 30px;
+  background-color: darkseagreen;
+  border-radius: 20%;
+}
+.darkApp {
+  background-color: darkslategray;
+  color: lightseagreen;
+}
+.lightSwitch {
+  color: yellow;
+}
+.lightHeader {
+  /* width: 100vw; */
+  height: 10vh;
+  background-color: darkslategray;
+  color: lightseagreen;
+  display: flex;
+  padding: 10px;
+}
